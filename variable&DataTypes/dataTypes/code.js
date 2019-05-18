@@ -82,3 +82,5 @@ console.log(k);
 // parse a string and return an integer
 var number = '3';
 console.log(parseInt(number));
+
+console.log((50-44.44).toFixed(2));
